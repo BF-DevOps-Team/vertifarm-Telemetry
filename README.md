@@ -21,4 +21,7 @@ Métriques exposées : `vertifarm_ph`, `vertifarm_water_liters`, `vertifarm_ener
 pip install -r requirements.txt
 uvicorn app.main:app --port 8002
 python -m pytest
+
+## Equipe
+- Naoufal - mainteneur du dépôt vertifarm-Telemetry
 ```
