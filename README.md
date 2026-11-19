@@ -23,5 +23,5 @@ uvicorn app.main:app --port 8002
 python -m pytest
 
 ## Equipe
-- <Naoufal> - mainteneur du dépôt <vertifarm-Telemetry>
+- Naoufal - mainteneur du dépôt vertifarm-Telemetry
 ```
